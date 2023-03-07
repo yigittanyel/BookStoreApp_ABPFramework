@@ -1,0 +1,33 @@
+{
+  "Culture": "tr",
+  "Texts": {
+    "Menu:Home": "Ana Sayfa",
+    "Welcome": "Hoş Geldiniz",
+    "LongWelcomeMessage": "Sayfaya hoş geldiniz.",
+    "Menu:BookStore": "Kitap Store",
+    "Menu:Books": "Kitaplar",
+    "Actions": "Aksiyonlar",
+    "Close": "Kapat",
+    "Delete": "Sil",
+    "Edit": "Düzenle",
+    "PublishDate": "Yayınlanma Tarihi",
+    "NewBook": "Yeni kitap",
+    "Name": "İsim",
+    "Type": "Tip",
+    "Price": "Ücret",
+    "Eklenme Tarihi": "Creation time",
+    "AreYouSure": "Are you sure?",
+    "AreYouSureToDelete": "Are you sure you want to delete this item?",
+    "Enum:BookType.0": "Undefined",
+    "Enum:BookType.1": "Adventure",
+    "Enum:BookType.2": "Biography",
+    "Enum:BookType.3": "Dystopia",
+    "Enum:BookType.4": "Fantastic",
+    "Enum:BookType.5": "Korku",
+    "Enum:BookType.6": "Bilim",
+    "Enum:BookType.7": "Bilim Kurgu",
+    "Enum:BookType.8": "Şiir",
+    "BookDeletionConfirmationMessage": "Silmek istediğinizden emin misiniz '{0}'?",
+    "SuccessfullyDeleted": "Başarıyla silindi!"
+  }
+}
